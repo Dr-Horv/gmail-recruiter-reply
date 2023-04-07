@@ -5,6 +5,10 @@ me on my private email which they've got their hands on somehow.
 It's a simple [Google Apps Script](https://developers.google.com/apps-script) 
 that I run once on a daily cadence
 
+## Sourcing Firms
+If you want to opt out of processing from companies who scrape GitHub and other places on the web for
+publicly available information I've started to collect a library of conventient links in [source-firms.md](docs/sourcing-firms.md)
+
 ## Description
 Current this is the first iteration of this experiment. I've setup 2 labels:
 * **RecruitersToMail**
